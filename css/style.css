@@ -1,0 +1,8 @@
+
+.card-surah{
+    cursor: pointer;
+    transition: .8s;
+}
+.card-surah:hover{
+    background-color: #fcd689;
+}
